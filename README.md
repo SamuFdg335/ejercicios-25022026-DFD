@@ -1,2 +1,10 @@
 # SamuelDelgado_JulianBejarano
-Trabajos DFD 25/02/26
+Ejercisio DFD 25/02/26
+
+## Integrantes
+
+- Samuel Francisco Delgado Gomez – 1117844
+- Julian Felipe Bejarano Rojas – 1108269
+
+## Tema
+Estructuras condicionales en Diagramas de Flujo y condiciones anidadas.
