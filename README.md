@@ -3,7 +3,7 @@ Ejercisio DFD 25/02/26
 
 ## Integrantes
 
-- Samuel Francisco Delgado Gomez – 1117844
+- Samuel Francisco Delgado González – 1117844
 - Julian Felipe Bejarano Rojas – 1108269
 
 ## Tema
