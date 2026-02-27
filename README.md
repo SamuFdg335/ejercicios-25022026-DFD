@@ -1,5 +1,5 @@
 # SamuelDelgado_JulianBejarano
-Ejercisio DFD 25/02/26
+Ejercicios DFD 25/02/26
 
 ## Integrantes
 
