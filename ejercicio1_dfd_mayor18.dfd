@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+"Hola señor usuario ingrese su edad para corroborar su acceso"
+5
+1
+4
+edad
+7
+0
+1
+10
+edad >= 18
+4
+1
+47
+"Se ha detectado que usted es un menor de edad"
+13
+4
+1
+50
+"Eres mayor de edad se le ha autorizado el acceso"
+13
+1
